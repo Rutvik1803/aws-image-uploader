@@ -2,8 +2,6 @@
 
 A production-ready serverless image upload application built with AWS Lambda, S3, DynamoDB, API Gateway, and a React frontend.
 
-![Project Banner](./screenshots/banner.png)
-
 ## 🎯 Project Overview
 
 This project demonstrates a complete serverless architecture for handling image uploads securely using AWS services. Users can upload images through a beautiful React interface, which connects to AWS API Gateway. Images are stored in S3 with metadata tracked in DynamoDB.
