@@ -489,10 +489,26 @@ To avoid future charges (after free tier expires), delete resources in this orde
 - [ ] Request rate limiting per user
 - [ ] Caching with ElastiCache
 
-## 📝 Notes
 
-**Start Date:** `___________`  
-**Completion Date:** `___________`
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@Rutvik1803](https://github.com/rutvik1803)
+- LinkedIn: [Rutvik Rana](https://www.linkedin.com/in/rutvik-rana-403378193/)
+- Portfolio: [https://rutvik-rana.vercel.app](https://rutvik-rana.vercel.app)
+
+---
+
+
+## 📧 Support
+
+For questions or issues:
+- Open an [issue](https://github.com/rutvik1803/aws-image-uploader/issues)
+- Email: rutvik.rana06@gmail.com
+
+---
+
 
 ## 📄 License
 
